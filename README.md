@@ -1,14 +1,16 @@
-# 🎈 ESMFold
+# 🧞 StrucGenie
 
-[*ESMFold*](https://esmatlas.com/about) is an end-to-end single sequence protein structure predictor based on the ESM-2 language model.
+**StrucGenie** is a web application that predicts the 3D structure of proteins using the ESM-2 language model, based on their amino acid sequence. It is a part of the ESM Metagenomic Atlas, which is an end-to-end pipeline for predicting protein structures.
 
-## Demo App
+## Live App
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://esmfold.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://strucgenie.streamlit.app/)
 
-## Credit
+## Contributors
 
-This app was inspired by [osanseviero's app](https://huggingface.co/spaces/osanseviero/esmfold).
+- Aman Soni
+- Mithlesh Kumar
+- Abhishek Bharti
 
 ## Further Reading
 For more information, read the following articles:
